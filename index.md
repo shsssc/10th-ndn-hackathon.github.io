@@ -13,6 +13,34 @@ We encourage projects that:
  - Create new NDN tools or modify existing tools,
  - Create or improve documentation and how-to guides.
 
+## Hackathon Awards
+
+- **First Prize**
+
+	*NFD-Android Enhancements*
+
+  Alex Afanasyev, Ju Pan, Sanjeev Kaushik Ramani, Davide Pesavento
+
+- **Second Prize**
+
+  *A half-done Sigcomm Tutorial App*
+
+  Zhiyi Zhang, Xinyu Ma, Edward Lu, Yu Guan, Erynn-Marie Phan, Laqin Fan
+
+- **Third Prize**
+
+  - *Self-Learning for Ad Hoc Wireless Networks*
+
+    Md Ashiqur Rahman, Davide Pesavento
+
+  - *Sync in MANET Library + Demo*
+
+    Tianxiang, Zhaoning, Spyros
+
+  - *ndncatchunks Performance Issues* 
+
+    Klaus Schneider, Saurab Dulal
+
 ## News
 
 - Feb 13, 2019: Hackathon website is up
@@ -22,6 +50,12 @@ We encourage projects that:
 - March 3, 2019: Hackathon project proposals updated
 
 - March 4, 2019: Accepted projects announced
+
+- March 8, 2019: Project pitching and team formation
+
+- March 9, 2019: First day Hackathon
+
+- March 10, 2019: Second day Hackathon
 
 ## Sponsors
 
