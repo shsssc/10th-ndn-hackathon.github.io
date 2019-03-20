@@ -9,7 +9,7 @@ title: Hacks Proposals
 {:toc}
 
 
-## 1. ESP32 Video Doorbell
+## <del>1. ESP32 Video Doorbell</del>>
 
 ### **[Pitch Slides](https://drive.google.com/file/d/1B-0FBrOfQBRtXzIqesaLxJL4RIm_hf57/view)**
 
@@ -44,7 +44,7 @@ Camera library: https://github.com/yoursunny/ESP32-CAM-OV2640
 
 ## 2. Enhance Testbed Status Page and NDN-FCH Service
 
-### **[Pitch Slides](https://drive.google.com/file/d/1uZ4E0OGr46p2PmnZemcZ8fJiSmjYMQ_4/view)**
+### **[Slides]({% asset 2-NDN-Testbed-Monitoring-tool.pdf @path %})**
 
 Project Lead: Junxiao Shi, Davide Pesavento
 
@@ -79,7 +79,7 @@ Also, ndn-autoconfig should try the WiFi access point as a potential NDN router,
 
 ## 3. Four-Layer Improvement of esp8266ndn
 
-### **[Pitch Slides](https://drive.google.com/file/d/1fwC31-5n2QpPDaEO590R1WdgTLeeBKs3/view)**
+### **[Slides](https://github.com/8th-ndn-hackathon/esp8266ndn-nrf52/blob/master/README.md)**
 
 Project Lead: Junxiao Shi
 
@@ -122,7 +122,7 @@ Tune the existing LoRa transport to make it work better in indoor and outdoor en
 
 ## 4. Implementing the new Signed Interest in ndn-lite
 
-### **[Pitch Slides](https://drive.google.com/file/d/1XEjRgK9obrBLCMtPgrnR2ZK9oSd9uDbp/view)**
+### **[Slides]({% asset 4-A-half-done-Sigcomm-Tutorial-App.pdf @path %})**
 
 Project Lead: Zhiyi Zhang
 
@@ -146,7 +146,7 @@ Prefered Team Size: 2
 
 ## 5. NDN-Lite: Integrate Service Discovery and Access Control and Schematized Trust
 
-### **[Pitch Slides](https://drive.google.com/file/d/1moMgE_lXyrbO3tOACM8fqIVfMhA4wpgU/view)**
+### **[Slides]({% asset 4-A-half-done-Sigcomm-Tutorial-App.pdf @path %})**
 
 Project Lead: Zhiyi Zhang
 
@@ -174,7 +174,7 @@ Prefered Team Size: 4
 
 ## 6. NFD-Android Enhancements
 
-### **[Pitch Slides](https://drive.google.com/file/d/1M8qv-U2cNN3mcXf8wH8WZVMLSB0uVVn6/view)**
+### **[Slides]({% asset 6-NFD-Android-Enhancements.pdf @path %})**
 
 Project Lead: Davide Pesavento
 
@@ -208,7 +208,7 @@ Prefered Team Size: 4
 
 ## 7. Self-Learning for Ad Hoc Wireless Networks
 
-### **[Pitch Slides](https://drive.google.com/file/d/1r29xvKhG-3lPsaV2a6TFcrE58JbIRMa7/view)**
+### **[Slides]({% asset 7-Self-Learning-for-Ad-Hoc-Wireless-Networks.pdf @path %})**
 
 Project Lead: Davide Pesavento, Md Ashiqur Rahman
 
@@ -234,7 +234,7 @@ Prefered Team Size: 3
 **Expected outcomes**
 - Self-learning can be used in ad hoc wireless networks, including automatic switching from multicast to unicast. If feasible, give a basic demonstration of the new forwarding strategy.
 
-## 8. Attribute Based Signature Scheme for NDN
+## <del>8. Attribute Based Signature Scheme for NDN</del>
 
 ### **[Pitch Slides](https://drive.google.com/file/d/1H8awzvgfIn_FBpnpmaLm_JCb-r53G_Rw/view)**
 
@@ -260,7 +260,7 @@ Prefered Team Size: 3
 
 ## 9. PSync for Repos
 
-### **[Pitch Slides](https://drive.google.com/file/d/1zv3nVmH8Qla-GMxh4LrpsKLY_G6Be3aD/view)**
+### **[Slides]({% asset 9-PSync-Hackathon-2019.pdf @path %})**
 
 Project Lead: Jeff Thompson
 
@@ -286,7 +286,7 @@ Prefered Team Size: 3
 
 - Demo app showing repo fetching of data for new names announced by a producer.
 
-## 10. Enhancements for npChat Android application
+## <del>10. Enhancements for npChat Android application</del>
 
 ### **[Pitch Slides](https://drive.google.com/file/d/1trb9waSkIvfu3iwtF1iYAJ2vi0yebRko/view)**
 
@@ -316,7 +316,7 @@ Prefered Team Size: 3
 
 ## 11. Fix Ndncatchunks Performance Issues
 
-### **[Pitch Slides](https://drive.google.com/file/d/1OcPdRln_bkU04OQYdH5QOejq6w7oZ0jc/view)**
+### **[Slides]({% asset 11-catchunks_perf.pdf @path %})**
 
 Project Lead: Klaus Schneider
 
@@ -340,7 +340,7 @@ Prefered Team Size: 4
 
 ## 12. Improve the Wireshark dissector for NDN
 
-### **[Pitch Slides](https://drive.google.com/file/d/1sj-F-CG9R7b5j3GqzU3RfKrNRSGESNbS/view)**
+### **[Slides]({% asset 12-Wireshark-Dissector.pdf @path %})**
 
 Project Lead: Davide Pesavento
 
@@ -372,7 +372,7 @@ Prefered Team Size: 2
 
 ## 13. Vector Sync for MANET
 
-### **[Pitch Slides](https://drive.google.com/file/d/1tQp5-BbWONzAEdghn_RnG6UhV_mCyH3p/view)**
+### **[Slides]({% asset 13-Sync-in-MANET-Library+Demo.pdf @path %})**
 
 Project Lead: Tianxiang Li
 
