@@ -13,7 +13,7 @@ We encourage projects that:
  - Create new NDN tools or modify existing tools,
  - Create or improve documentation and how-to guides.
 
-<!--## Hackathon Awardsd
+<!--## Hackathon Awards
 
 - **First Prize**
 
