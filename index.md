@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Welcome to 8th NDN Hackathon (Welcome Remote Participation!)
+title: Welcome to 9th NDN Hackathon (Welcome Remote Participation!)
 ---
 
-#### **Please register for the 8th NDN Hackathon through the following link:**
+#### **Please register for the 9th NDN Hackathon through the following link:**
 
-<https://www.eventbrite.com/e/8th-ndn-hackathon-welcome-remote-participation-tickets-56589415465>
+<https://www.eventbrite.com/e/9th-ndn-hackathon-registration-65003814158>
  
 We encourage projects that:
 
@@ -13,7 +13,7 @@ We encourage projects that:
  - Create new NDN tools or modify existing tools,
  - Create or improve documentation and how-to guides.
 
-## Hackathon Awards
+<!--## Hackathon Awards
 
 - **First Prize**
 
@@ -39,23 +39,14 @@ We encourage projects that:
 
   - *ndncatchunks Performance Issues* 
 
-    Klaus Schneider, Saurab Dulal
+    Klaus Schneider, Saurab Dulal-->
 
 ## News
 
-- Feb 13, 2019: Hackathon website is up
+- July 18, 2019: Hackathon is open for registration
+- July 24, 2019: Hackathon website is up
 
-- Feb 28, 2019: Hackathon registration closed
 
-- March 3, 2019: Hackathon project proposals updated
-
-- March 4, 2019: Accepted projects announced
-
-- March 8, 2019: Project pitching and team formation
-
-- March 9, 2019: First day Hackathon
-
-- March 10, 2019: Second day Hackathon
 
 ## Sponsors
 

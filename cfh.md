@@ -3,9 +3,9 @@ layout: page
 title: Call for Hacks
 ---
 
-#### **Please register for the 8th NDN Hackathon through the following link:**
+#### **Please register for the 9th NDN Hackathon through the following link:**
 
-<https://www.eventbrite.com/e/8th-ndn-hackathon-welcome-remote-participation-tickets-56589415465>
+<https://www.eventbrite.com/e/9th-ndn-hackathon-registration-65003814158>
 
 We solicit Hackathon project proposals that advance the state of NDN.  Participants will have approximately **12 hours** to work on the projects.
 
@@ -18,7 +18,7 @@ We encourage projects that:
 
 ## Submission guidelines
 
-Proposals should be submitted via [web form](https://goo.gl/forms/FX5RlYG3DrLJVBfG2).
+Proposals should be submitted via [web form](https://docs.google.com/forms/d/e/1FAIpQLSdwBd-GnvqOXkhDA0UWVAp--steCXpnbtk0T0vK6KncvCfwLQ/viewform?usp=pp_url).
 
 The submissions should include:
 
