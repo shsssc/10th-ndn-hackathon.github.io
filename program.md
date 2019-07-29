@@ -3,8 +3,8 @@ layout: page
 title: Program
 ---
 
-The hackathon will take place in Gaithersburg, MD, 
-- The sepecific location is TBD.
+**Location:**      
+[Holiday Inn - Gaithersburg | Two Montgomery Village Ave | Walker Room | Gaithersburg, MD 20879](https://goo.gl/maps/yQio196gekwmoxhy7)
 
 ## Saturday, September 7, 2019
 
