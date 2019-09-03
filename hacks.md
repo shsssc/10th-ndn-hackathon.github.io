@@ -13,11 +13,11 @@ title: Hacks Proposals
 
 ### **[Pitch Slides]({% asset 1-doorbell-junxiao.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Junxiao Shi
 
 <!-- Project Members: TBD -->
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 2
 
 **Targeted participant**
@@ -34,11 +34,12 @@ Upon receiving and verifying a signed Interest, it plays a ringtone, and display
 When a hardware button is pressed, it sends a signed Interest to the display unit to sound ringtone.
 Upon receiving an Interest for image, it captures an image from the OV2640 camera and sends it as Data segments.
 
-3. NDN library: https://github.com/yoursunny/esp8266ndn 
-Camera library: https://github.com/yoursunny/ESP32-CAM-OV2640
+3. NDN library: https://github.com/yoursunny/esp8266ndn/
+Camera library: https://github.com/yoursunny/esp32cam/
 
 **Any specific tools or language**
-- Project author will loan 1x ODROID-GO, 1x ESP32-CAM, 1x USB-UART, 1x button. Each task needs 1 participant who can write C++.
+- Project author will loan 1x ODROID-GO, 1x ESP32-CAM, 1x USB-UART, 1x button.
+- Each task needs 1 participant who can write C++.
 
 **Expected outcomes**
 - Finish all tasks.
@@ -47,17 +48,23 @@ Camera library: https://github.com/yoursunny/ESP32-CAM-OV2640
 
 ### **[Pitch Slides]({% asset 2-openwrt-junxiao.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Junxiao Shi
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 3
 
 **Targeted participant**
 - People new to NDN development
 
 **How does your proposal benefit NDN?**
-- OpenWrt is an embedded operating system designed for home routers. @yoursunny has ported ndn-cxx, NFD, and ndn-tools as OpenWrt packages, and tested their basic functionality. Configuration is integrated to UCI (Unified Configuration Interface), and dynamically converted to nfd.conf and scripts. Currently, the user can only interact with these program via command line and config files.  This project is to integrate NFD and ndn-tools into LuCI, OpenWrt's web user interface. Then, it would be easier to deploy and use NDN on home routers.
+- OpenWrt is an embedded operating system designed for home routers.
+  @yoursunny has ported ndn-cxx, NFD, and ndn-tools as OpenWrt packages, and tested their basic functionality.
+  Configuration is integrated to UCI (Unified Configuration Interface), and dynamically converted to nfd.conf and scripts.
+  Currently, the user can only interact with these program via command line and config files.
+- This project is to integrate NFD and ndn-tools into LuCI, OpenWrt's web user interface.
+  Then, it would be easier to deploy and use NDN on home routers.
+
 
 **Briefly describe the tasks**
 - Develop LuCI pages to:
@@ -75,42 +82,47 @@ Port server components of Xinyu's NDN Control Center (ndn-cc) as an OpenWrt pack
 Future development of LuCI pages would be able to reuse ndn-cc's REST API.
 
 **Any specific tools or language**
-- Lua programming language: it's easy to learn during the hackathon. Linux userspace environment (physical, virtual, or WSL), at least 20GB disk space to install OpenWrt buildroot. Wired Ethernet port on the laptop.  Project author will loan 2x Banana Pi R2 home routers, with pre-installed OpenWrt 18.06.2 and NDN packages.
+- Lua programming language: it's easy to learn during the hackathon.
+- Linux userspace environment (physical, virtual, or WSL), at least 20GB disk space to install OpenWrt buildroot.
+- Wired Ethernet port on the laptop.
+- Project author will loan 2x Banana Pi R2 home routers, with pre-installed OpenWrt 18.06.2 and NDN packages.
 
 **Expected outcomes**
 - Display the LuCI pages mentioned above.
 
-## 3. NDNCERT Client, Certificate Bundle, and Prefix Announcement in ndn-js and esp8266ndn 
+## 3. NDNCERT Client, Certificate Bundle, and Prefix Announcement in ndn-js and esp8266ndn
 
 ### **[Pitch Slides]({% asset 3-testbed-junxiao.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Junxiao Shi
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 5
 
 **Targeted participant**
 - People with NDN code development experience
 
 **How does your proposal benefit NDN?**
-- https://github.com/named-data/ndncert/wiki/NDNCERT-Protocol-0.2 NDN certificate management protocol (NDNCERT) enables certificate application and issuance in NDN. NDNCERT protocol has been verified by NIST Computer Security Division, and is being implemented by Zhiyi Zhang at UCLA. NDNCERT certificate authority will replace ndncert legacy website for NDN testbed certificate issuance.  https://redmine.named-data.net/issues/2766#note-30 Certificate bundle is a way to collect multiple certificates necessary to validate a packet into a single segmented object, in order to enable more efficient validation. Specification of certificate bundle has been approved at NFD call in May 2019, and is being implemented by Jeremy Clark at Memphis. In the future, prefix registration on the NDN testbed may allow the end host to supply a certificate bundle, so that the validator does not need to retrieve certificates from every CA, which in turn depends on every CA being online.  https://redmine.named-data.net/projects/nfd/wiki/PrefixAnnouncement The prefix announcement object is a Data packet that represents an application's intent of registering a prefix toward itself. Prefix announcement object is already used in NFD's self-learning implementation. Next version of NFD Management protocol will also allow using a prefix announcement object in place of a Name along with other flags.  This project is to integrate NDNCERT client, certificate bundle publisher, and prefix announcement encoding/decoding functionality into ndn-js and esp8266ndn libraries. This prepares web applications and ESP32 devices to work with next generation of prefix registration procedure on the NDN testbed.
+- [NDN certificate management protocol (NDNCERT)](https://github.com/named-data/ndncert/wiki/NDNCERT-Protocol-0.2) enables certificate application and issuance in NDN. NDNCERT protocol has been verified by NIST Computer Security Division, and is being implemented by Zhiyi Zhang at UCLA. NDNCERT certificate authority will replace ndncert legacy website for NDN testbed certificate issuance.
+- [Certificate bundle](https://redmine.named-data.net/issues/2766#note-30) is a way to collect multiple certificates necessary to validate a packet into a single segmented object, in order to enable more efficient validation. Specification of certificate bundle has been approved at NFD call in May 2019, and is being implemented by Jeremy Clark at Memphis. In the future, prefix registration on the NDN testbed may allow the end host to supply a certificate bundle, so that the validator does not need to retrieve certificates from every CA, which in turn depends on every CA being online.
+- The [prefix announcement object](https://redmine.named-data.net/projects/nfd/wiki/PrefixAnnouncement) is a Data packet that represents an application's intent of registering a prefix toward itself. Prefix announcement object is already used in NFD's self-learning implementation. Next version of NFD Management protocol will also allow using a prefix announcement object in place of a Name along with other flags.  This project is to integrate NDNCERT client, certificate bundle publisher, and prefix announcement encoding/decoding functionality into ndn-js and esp8266ndn libraries. This prepares web applications and ESP32 devices to work with next generation of prefix registration procedure on the NDN testbed.
 
 **Briefly describe the tasks**
 
 Notice: scope of this project is flexible, every task is optional, one or two tasks per person.
 
 - Develop the following features in ndn-js:
-1. NDNCERT client with PIN challenge.
-2. Certificate bundle publisher.
-3. PrefixAnnouncement encoding/decoding.
+	- 1. NDNCERT client with PIN challenge.
+	- 2. Certificate bundle publisher.
+	- 3. PrefixAnnouncement encoding/decoding.
 
 They should be written in TypeScript or ES2019, use a Promise-style API, and tested with Node 12.
 Do not write in outdated ES5: browser and older Node can be supported via transpilers and polyfills.
 
 - Develop the following features in esp8266ndn:
-4. NDNCERT client with PIN challenge.
-5. PrefixAnnouncement encoding/decoding.
+	- 4. NDNCERT client with PIN challenge.
+	- 5. PrefixAnnouncement encoding/decoding.
 
 They should expose C++ API.
 
@@ -118,27 +130,31 @@ Internally, they can use either ndn-cpp or ndn-lite, as both are integrated in e
 Crypto operations may also use mbedtls of ESP32 SDK directly, which would limit these features to initially support only ESP32.
 
 **Any specific tools or language**
-- TypeScript or modern JavaScript programming for ndn-js variant.  C++ and C programming for esp8266ndn variant.  NFD and WiFi AP on laptop.  Project author will loan 2x ESP32 devices.
+- TypeScript or modern JavaScript programming for ndn-js variant.
+- C++ and C programming for esp8266ndn variant.
+- NFD and WiFi AP on laptop.
+- Project author will loan 2x ESP32 devices.
 
 **Expected outcomes**
 - Demo NDNCERT client by requesting a certificate from a locally deployed NDNCERT CA.
 - Demo certificate bundle publisher and PrefixAnnouncement encoding/decoding by packet traces.
 
-## 4. Self-organized Network in esp8266ndn 
+## 4. Self-organized Network in esp8266ndn
 
 ### **[Pitch Slides]({% asset 4-esp8266ndn-junxiao.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Junxiao Shi
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 3
 
 **Targeted participant**
 - People with NDN code development experience
 
 **How does your proposal benefit NDN?**
-- Many WiFi-enabled IoT devices, including the ESP8266, only support AP and STA modes, and can operate both modes simultaneously, but do not support ad hoc mode. This project explores a novel approach to organize an NDN network using only AP+STA mode.  esp8266ndn is an Arduino library that enables NDN application development on ESP8266, ESP32, and nRF52 microcontrollers. https://github.com/yoursunny/esp8266ndn Recently, @yoursunny integrated ndn-lite forwarding engine into esp8266ndn. This project will use esp8266ndn library and its ndn-lite forwarding engine.
+- Many WiFi-enabled IoT devices, including the ESP8266, only support AP and STA modes, and can operate both modes simultaneously, but do not support ad hoc mode. This project explores a novel approach to organize an NDN network using only AP+STA mode.
+- [esp8266ndn](https://github.com/yoursunny/esp8266ndn) is an Arduino library that enables NDN application development on ESP8266, ESP32, and nRF52 microcontrollers. Recently, @yoursunny integrated ndn-lite forwarding engine into esp8266ndn. This project will use esp8266ndn library and its ndn-lite forwarding engine.
 
 **Briefly describe the tasks**
 
@@ -169,10 +185,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 5-multicast-ernest.pdf @path %})**
 
-**Project Lead:** 
-- Ernest McCracken 
+**Project Lead:**
+- Ernest McCracken
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 2
 
 **Targeted participant**
@@ -194,10 +210,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 6-email-ritik.pdf @path %})**
 
-**Project Lead:** 
-- Ritik Kumar, Narendra Patel 
+**Project Lead:**
+- Ritik Kumar, Narendra Patel
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 2
 
 **Targeted participant**
@@ -219,10 +235,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 7-full-saurab.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Saurab Dulal, Ashlesh Gawande
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 2
 
 **Targeted participant**
@@ -232,9 +248,9 @@ This requires a simplified version of self-learning, where every wireless node h
 - Develop a PSync FullConsumer and allow IoT devices to discover services via it.
 
 **Briefly describe the tasks**
-- Finalize the design for FullConsumer and update the existing code. 
+- Finalize the design for FullConsumer and update the existing code.
 - Write a simple SegmentFetcher for ESP8266.
-- Port FullConsumer to ESP8266. 
+- Port FullConsumer to ESP8266.
 - Write a wrapper discovery library for PSync that allows users to publish/discover services
 
 **Any specific tools or language**
@@ -243,14 +259,14 @@ This requires a simplified version of self-learning, where every wireless node h
 **Expected outcomes**
 - ESP8266 device can discover prefixes advertised by other nodes in sync over broadcast face.
 
-## 8. NDN mailing List Search Tool 
+## 8. NDN mailing List Search Tool
 
 ### **[Pitch Slides]({% asset 8-mailinglist-atif.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Muhammad Atif Ur Rehman
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 3
 
 **Targeted participant**
@@ -274,10 +290,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 9-android-davide.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Davide Pesavento
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 4
 
 **Targeted participant**
@@ -304,10 +320,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 10-testbed-davide.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Davide Pesavento
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 4
 
 **Targeted participant**
@@ -317,16 +333,16 @@ This requires a simplified version of self-learning, where every wireless node h
 - Provide better visibility into the availability of the NDN testbed. The current status page only shows routing reachability; the redesigned page would detect data plane and prefix registration issues. Make it easier for an end host to find and connect to a working testbed router.
 
 **Briefly describe the tasks**
-1. Develop a service that periodically 
-	1. connects to a testbed router over UDP, TCP, and WSS, 
-	2. sends ndnping probes to every known destination, 
+1. Develop a service that periodically
+	1. connects to a testbed router over UDP, TCP, and WSS,
+	2. sends ndnping probes to every known destination,
 	3. registers a prefix and checks its propagation by pinging from another router. Collected results should be saved into a database.
 2. Develop a web application that shows the results from the database.
 3. Develop an NDN-FCH compatible server that responds with routers with minimum downtime in the past T hours. This server can directly connect to the database.
 4. Improve ndn-autoconfig client: try multiple routers from NDN-FCH, try the Wi-Fi access point, etc.
 
 **Any specific tools or language**
-- Python and database basics; 
+- Python and database basics;
 - C++ for the last task.
 
 **Expected outcomes**
@@ -336,10 +352,10 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ### **[Pitch Slides]({% asset 11-lora-kent.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Kangheng Wu, Kent
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 3
 
 **Targeted participant**
@@ -368,17 +384,17 @@ information or tutorials on how to run NDN-Lite over LoRa network
 
 ### **[Pitch Slides]({% asset 12-ndnsim-teng.pdf @path %})**
 
-**Project Lead:** 
+**Project Lead:**
 - Teng Liang, Klaus Schneider
 
-**Prefered Team Size:** 
+**Prefered Team Size:**
 - 2
 
 **Targeted participant**
 - People with NDN code development experience
 
 **How does your proposal benefit NDN?**
-- Our proposal aims to improve ndnSIM, the simulator of NDN, by migrating multipath forwarding codebase from ndnSIM 2.1 to the latest 2.7, and integrating ns-3 TrafficControlLayer. 
+- Our proposal aims to improve ndnSIM, the simulator of NDN, by migrating multipath forwarding codebase from ndnSIM 2.1 to the latest 2.7, and integrating ns-3 TrafficControlLayer.
 
 **Briefly describe the tasks**
 1. Use ns3::TrafficControlLayer in ndn-net-device-transport module
