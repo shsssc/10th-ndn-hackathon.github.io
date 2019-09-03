@@ -45,6 +45,10 @@ We encourage projects that:
 
 - July 18, 2019: Hackathon is open for registration
 - July 24, 2019: Hackathon website is up
+- August, 12, 2019: Update the jugding criteria
+- September, 1, 2019: Hackathon registration closed
+- September, 2, 2019: Hackathon project proposals updated
+
 
 
 

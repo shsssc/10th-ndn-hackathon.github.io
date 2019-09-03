@@ -10,7 +10,7 @@ title: Program
 
 {:.table-condensed .table-striped .table-hover .program}
 
-8:30 am - 9:30 am | **Welcome remarks, project idea pitches, and forming teams;**
+8:30 am - 9:30 am | **Welcome remarks, project idea pitches, and forming teams;** [[Zoom Link](https://arizona.zoom.us/j/855147924)], [[Project Selection](https://docs.google.com/spreadsheets/d/1caXgJ2s8NUjhWSPoZB5ZNbxjcIgcpXKhGb6tKet0Lic/edit?usp=sharing)]
 12:00 pm - 1:00 pm | **Lunch time** (self-care);
 9:30 am - 6:00 pm | **Hacking**;
 6:00 pm | **Dinner** (in groups, each group has a person pay the bill and then got reimbursement from NDN Consortium)
@@ -19,9 +19,9 @@ title: Program
 
 {:.table-condensed .table-striped .table-hover .program}
 
-8:30 am - 12:00 pm | **Hacking, wrapping up and preparing projects for judging;**
+8:30 am - 12:00 pm | **Hacking, wrapping up and preparing projects for judging;**[[Presentation Submission](https://forms.gle/MW8uUo169HEWNm7L9)]
 12:00 pm - 1:00 pm | **Lunch time** (self-care, get back before 1:00 pm);
-1:00 pm - 3:00 pm | **Project demonstration, judging and reception;**
+1:00 pm - 3:00 pm | **Project demonstration, judging and reception;** [[Zoom Link](https://arizona.zoom.us/j/976706480)]
 
 <br> 
 Lunch map:
