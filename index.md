@@ -48,7 +48,7 @@ We encourage projects that:
 - August, 12, 2019: Update the jugding criteria
 - September, 1, 2019: Hackathon registration closed
 - September, 2, 2019: Hackathon project proposals updated
-
+- September, 3, 2019: Accepted projects announced
 
 
 
