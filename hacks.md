@@ -406,3 +406,31 @@ information or tutorials on how to run NDN-Lite over LoRa network
 
 **Expected outcomes**
 - A workable multipath forwarding strategy with an integrated traffic control layer tested in simple scenarios
+
+## 13. NDNCERT-v2: Debug, Deploy, Dominate
+
+### **[Pitch Slides]({% asset 13-ndncert-alex.pdf @path %})**
+
+**Project Lead:**
+- Alex Afanasyev
+
+**Prefered Team Size:**
+- 4
+
+**Targeted participant**
+- People with NDN code development experience
+
+**How does your proposal benefit NDN?**
+- NDNCERTv2 test server was up/down/up/down, we need to debug the problems and finally switch to it from the legacy system The command-line client (and some client-side library) need to be improved; as well we need implementation of the client in other languages (python, javascript, java) to ease embedding it in applications 
+
+**Briefly describe the tasks**
+- Deploy, debug, deploy, and debug again NDNCERT-v2 server
+- Implement PyNDN client 
+- Implement ndn-js client
+- Implement jNDN client
+
+**Any specific tools or language**
+- ndn-cxx, PyNDN, jNDN, ndn-js
+
+**Expected outcomes**
+- NDN testbed domination
