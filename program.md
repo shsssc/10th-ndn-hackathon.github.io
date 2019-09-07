@@ -20,7 +20,6 @@ title: Program
 {:.table-condensed .table-striped .table-hover .program}
 
 8:30 am - 12:00 pm | **Hacking, wrapping up and preparing projects for judging;**[[Presentation Submission](https://forms.gle/MW8uUo169HEWNm7L9)] (please submit your presentation by 12:30 pm)
-
 12:00 pm - 1:00 pm | **Lunch time** (self-care, get back before 1:00 pm);
 1:00 pm - 3:00 pm | **Project demonstration, judging and reception;** [[Zoom Link](https://arizona.zoom.us/j/976706480)]
  
