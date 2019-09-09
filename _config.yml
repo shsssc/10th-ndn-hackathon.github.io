@@ -58,8 +58,8 @@ navbar_list:
 #  link: https://www.eventbrite.com/e/8th-ndn-hackathon-tickets-51133541800
 # - name: <b>HACKS</b>
 #   link: /hacks.html
-# - name: <b>PHOTOS</b>
-#   link: /photos.html
+  - name: <b>PHOTOS</b>
+    link: /photos.html
 
 asides:
     github: true

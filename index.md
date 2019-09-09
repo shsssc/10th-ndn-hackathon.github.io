@@ -13,33 +13,33 @@ We encourage projects that:
  - Create new NDN tools or modify existing tools,
  - Create or improve documentation and how-to guides.
 
-<!--## Hackathon Awards 
+## Hackathon Awards 
 
-- **First Prize**
+- **Best External Impact Prize**
 
-	*NFD-Android Enhancements*
+	*NFD on OpenWrt Home Router*
 
-  Alex Afanasyev, Ju Pan, Sanjeev Kaushik Ramani, Davide Pesavento
+  Junxiao Shi, Xinyu Ma, John Dellaverson
 
-- **Second Prize**
+- **Most Useful Tool Prize**
 
-  *A half-done Sigcomm Tutorial App*
+  *NDN mailing List Search Tool*
 
-  Zhiyi Zhang, Xinyu Ma, Edward Lu, Yu Guan, Erynn-Marie Phan, Laqin Fan
+  Muhammad Atif Ur Rehman, Rehmat Ullah, Salah Ud Din
 
-- **Third Prize**
+- **Most Feedback Prize**
 
-  - *Self-Learning for Ad Hoc Wireless Networks*
+  - *Service discovery for IoT devices through PSync FullSync*
 
-    Md Ashiqur Rahman, Davide Pesavento
+    Saurab Dulal, Muktadir Chowdhury, Laqin Fan
 
-  - *Sync in MANET Library + Demo*
+  - *NDNCERT-v2: Debug, Deploy, Dominate*
 
-    Tianxiang, Zhaoning, Spyros
+    Ashlesh Gawande, Alex Afanasyev
 
-  - *ndncatchunks Performance Issues* 
+- **Best Organizer Prize**
 
-    Klaus Schneider, Saurab Dulal-->
+  - Ju Pan, Ernest Mccracken
 
 ## News
 
@@ -49,7 +49,8 @@ We encourage projects that:
 - September, 1, 2019: Hackathon registration closed
 - September, 2, 2019: Hackathon project proposals updated
 - September, 3, 2019: Accepted projects announced
-
+- September, 7, 2019: First day Hackathon
+- September, 8, 2019: Second day Hackathon
 
 
 ## Sponsors

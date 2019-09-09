@@ -9,7 +9,7 @@ title: Hacks Proposals
 {:toc}
 
 
-## 1. ESP32 Video Doorbell
+## <del>1. ESP32 Video Doorbell</del>
 
 ### **[Pitch Slides]({% asset 1-doorbell-junxiao.pdf @path %})**
 
@@ -46,7 +46,7 @@ Camera library: https://github.com/yoursunny/esp32cam/
 
 ## 2. NFD on OpenWrt Home Router
 
-### **[Pitch Slides]({% asset 2-openwrt-junxiao.pdf @path %})**
+### **[Slides]({% asset 2-openwrt-junxiao.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -90,7 +90,7 @@ Future development of LuCI pages would be able to reuse ndn-cc's REST API.
 **Expected outcomes**
 - Display the LuCI pages mentioned above.
 
-## 3. NDNCERT Client, Certificate Bundle, and Prefix Announcement in ndn-js and esp8266ndn
+## 3. <del>NDNCERT Client, Certificate Bundle, and Prefix Announcement in ndn-js and esp8266ndn</del>
 
 ### **[Pitch Slides]({% asset 3-testbed-junxiao.pdf @path %})**
 
@@ -139,7 +139,7 @@ Crypto operations may also use mbedtls of ESP32 SDK directly, which would limit 
 - Demo NDNCERT client by requesting a certificate from a locally deployed NDNCERT CA.
 - Demo certificate bundle publisher and PrefixAnnouncement encoding/decoding by packet traces.
 
-## 4. Self-organized Network in esp8266ndn
+## 4. <del>Self-organized Network in esp8266ndn</del>
 
 ### **[Pitch Slides]({% asset 4-esp8266ndn-junxiao.pdf @path %})**
 
@@ -183,7 +183,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 5.  Simulating Multicast Suppression Scheme
 
-### **[Pitch Slides]({% asset 5-multicast-ernest.pdf @path %})**
+### **[Slides]({% asset 5-multicast-ernest.pdf @path %})**
 
 **Project Lead:**
 - Ernest McCracken
@@ -206,7 +206,7 @@ This requires a simplified version of self-learning, where every wireless node h
 **Expected outcomes**
 - Proof showing the scheme is correct by maximizing available bandwidth while minimizing induced delay.
 
-## 6. NDN E-MAIL
+## 6. <del>NDN E-MAIL</del>
 
 ### **[Pitch Slides]({% asset 6-email-ritik.pdf @path %})**
 
@@ -233,7 +233,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 7. Service discovery for IoT devices through PSync FullSync
 
-### **[Pitch Slides]({% asset 7-full-saurab.pdf @path %})**
+### **[Slides]({% asset 7-full-saurab.pdf @path %})**
 
 **Project Lead:**
 - Saurab Dulal, Ashlesh Gawande
@@ -261,7 +261,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 8. NDN mailing List Search Tool
 
-### **[Pitch Slides]({% asset 8-mailinglist-atif.pdf @path %})**
+### **[Slides]({% asset 8-mailinglist-atif.pdf @path %})**
 
 **Project Lead:**
 - Muhammad Atif Ur Rehman
@@ -288,7 +288,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 9. NFD-Android Enhancements
 
-### **[Pitch Slides]({% asset 9-android-davide.pdf @path %})**
+### **[Slides]({% asset 9-android-davide.pdf @path %})**
 
 **Project Lead:**
 - Davide Pesavento
@@ -318,7 +318,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 10. Enhanced Testbed Monitoring and FCH Service
 
-### **[Pitch Slides]({% asset 10-testbed-davide.pdf @path %})**
+### **[Slides]({% asset 10-testbed-davide.pdf @path %})**
 
 **Project Lead:**
 - Davide Pesavento
@@ -350,7 +350,7 @@ This requires a simplified version of self-learning, where every wireless node h
 
 ## 11. NDN-Lite Over LoRa Network
 
-### **[Pitch Slides]({% asset 11-lora-kent.pdf @path %})**
+### **[Slides]({% asset 11-lora-kent.pdf @path %})**
 
 **Project Lead:**
 - Kangheng Wu, Kent
@@ -382,7 +382,7 @@ information or tutorials on how to run NDN-Lite over LoRa network
 
 ## 12. Migrate multipath forwarding strategy to latest ndnSIM and integrate ns3 TrafficControlLayer
 
-### **[Pitch Slides]({% asset 12-ndnsim-teng.pdf @path %})**
+### **[Slides]({% asset 12-ndnsim-teng.pdf @path %})**
 
 **Project Lead:**
 - Teng Liang, Klaus Schneider
@@ -409,7 +409,7 @@ information or tutorials on how to run NDN-Lite over LoRa network
 
 ## 13. NDNCERT-v2: Debug, Deploy, Dominate
 
-### **[Pitch Slides]({% asset 13-ndncert-alex.pdf @path %})**
+### **[Slides]({% asset 13-ndncert-alex.pdf @path %})**
 
 **Project Lead:**
 - Alex Afanasyev
