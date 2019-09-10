@@ -57,6 +57,10 @@ We encourage projects that:
 
   - Ju Pan, Ernest Mccracken
 
+  {% asset awards/org.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
+
+  <br/>
+
 ## News
 
 - July 18, 2019: Hackathon is open for registration
