@@ -11,7 +11,9 @@ title: Committees
 
 ## Judging Committee
 
-- TBD
+- Lixia Zhang (UCLA)
+- Alex Afanasyev (Florida International University)
+- Davide Pesavento (NIST)
 
 <!--
 - Alex Afanasyev (Florida International University)
