@@ -27,7 +27,7 @@ We encourage projects that:
 
 - **Most Useful Tool Prize**
 
-  *NDN mailing List Search Tool*
+  *NDN mailing List Search Tool (Remote Participation)*
 
   Muhammad Atif Ur Rehman, Rehmat Ullah, Salah Ud Din
 
