@@ -21,11 +21,19 @@ We encourage projects that:
 
   Junxiao Shi, Xinyu Ma, John Dellaverson
 
+  {% asset awards/openwrt.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
+
+  <br/>
+
 - **Most Useful Tool Prize**
 
   *NDN mailing List Search Tool*
 
   Muhammad Atif Ur Rehman, Rehmat Ullah, Salah Ud Din
+
+  {% asset awards/mailinglist.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
+
+  <br/>
 
 - **Most Feedback Prize**
 
@@ -33,9 +41,17 @@ We encourage projects that:
 
     Saurab Dulal, Muktadir Chowdhury, Laqin Fan
 
+    {% asset awards/psync.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
+
+    <br/>
+
   - *NDNCERT-v2: Debug, Deploy, Dominate*
 
     Ashlesh Gawande, Alex Afanasyev
+
+    {% asset awards/cert.jpg @pic srcset:width="600 1x" srcset:width="800 2x" %}
+
+    <br/>
 
 - **Best Organizer Prize**
 
