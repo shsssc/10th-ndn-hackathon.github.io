@@ -55,7 +55,7 @@ project plans to support more NDN mailing lists.
 - Lack of API to retrive strategy choice for a given prefix
 
 **Future work:**
-- Not mentioned.
+- Uploading the NFD-Android ping server patch.
 ---
 
 ### [Project 10]: Enhanced Testbed Monitoring and FCH Service
