@@ -10,6 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem 'jekyll', '~> 3.8', '>= 3.8.5'
 
+gem 'sprockets', '~> 3.7'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'

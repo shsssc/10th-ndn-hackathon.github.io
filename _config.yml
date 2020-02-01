@@ -15,19 +15,19 @@ plugins:
 
 deadlines:
         - name: Submission deadline
-          date: September 1, 2019
+          date: TBD
         - name: Acceptance notification
-          date: September 3, 2019
+          date: TBD
 
 # Configuration for permalink
 permalink: /:page.html
 
 # Configuration for site
-title: 9th Named Data Networking (NDN) Hackathon
-short_title: 9th NDN Hackathon
-description: September 7-8, 2019 @ Gaithersburg, MD
-author: 9th NDN Hackathon Organizing Committee
-email: 9th-ndn-hackathon@named-data.net
+title: 10th Named Data Networking (NDN) Hackathon
+short_title: 10th NDN Hackathon
+description: March 14-15, 2020 in Tucson, AZ
+author: 10th NDN Hackathon Organizing Committee
+email: 10th-ndn-hackathon@named-data.net
 
 # Configuration for blog
 lang: en
@@ -41,16 +41,16 @@ navbar_list:
     link: /
   - name: Committees
     link: /committees.html
-  - name: Terms
-    link: /terms.html
-  - name: <b>HACKS</b>
-    link: /hacks.html
- # - name: Call for Hacks
- #   link: /cfh.html
-  - name: Program
-    link: /program.html
-  - name: Judging
-    link: /judging.html
+#  - name: Terms
+#    link: /terms.html
+#  - name: <b>HACKS</b>
+#    link: /hacks.html
+  - name: Call for Hacks
+    link: /cfh.html
+#  - name: Program
+#    link: /program.html
+#  - name: Judging
+#    link: /judging.html
 
 # - name: Call for Hack Proposals
 #   link: /cfh.html
@@ -58,8 +58,8 @@ navbar_list:
 #  link: https://www.eventbrite.com/e/8th-ndn-hackathon-tickets-51133541800
 # - name: <b>HACKS</b>
 #   link: /hacks.html
-  - name: <b>PHOTOS</b>
-    link: /photos.html
+#  - name: <b>PHOTOS</b>
+#    link: /photos.html
 
 asides:
     github: true
@@ -78,7 +78,7 @@ twitter:
     widget_id: 698294519054278656
 
 github:
-   username: 9th-ndn-hackathon
+   username: 10th-ndn-hackathon
    count: 10000
 
 assets:
