@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
 
-url: https://10th-ndn-hackathon.named-data.net
+url: http://10th-ndn-hackathon.named-data.net
 baseurl:
 
 plugins:
