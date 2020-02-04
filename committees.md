@@ -8,7 +8,7 @@ title: Committees
 - [ Eric Newberry ](mailto:enewberry@cs.ucla.edu) (University of California, Los Angeles)
 - [ Proyash Podder ](mailto:ppodd002@fiu.edu) (Florida International University)
 - [ Saurab Dulal ](mailto:sdulal@memphis.edu ) (University of Memphis)
-- TBD (The University of Arizona)
+- [ Md Ashiqur Rahman ](mailto:marahman@email.arizona.edu )(The University of Arizona)
 
 <!--
 ## Hacking Committee
