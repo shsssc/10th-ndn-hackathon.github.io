@@ -17,6 +17,7 @@ We encourage projects that:
 
 ## News
 
+- February 10, 2020: Registration deadline and proposal acceptance date finalized 
 - February 9, 2020: Participant registration is open
 - January 31, 2020: Hackathon website is up
 
