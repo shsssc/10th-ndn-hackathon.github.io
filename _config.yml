@@ -15,9 +15,9 @@ plugins:
 
 deadlines:
         - name: Submission deadline
-          date: TBD
+          date: Sunday, March 8th, 2020 
         - name: Acceptance notification
-          date: TBD
+          date: Tuesday, March 10th, 2020
 
 # Configuration for permalink
 permalink: /:page.html
