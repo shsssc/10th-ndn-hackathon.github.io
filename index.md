@@ -15,6 +15,12 @@ We encourage projects that:
  - Create new NDN tools or modify existing tools,
  - Create or improve documentation and how-to guides.
 
+
+## Call For Hacks
+
+- Proposals should be submitted via web form: https://forms.gle/2unDD5C5zVDUeFVq5
+- Click [here](http://10th-ndn-hackathon.named-data.net/cfh.html) for more details.
+
 ## News
 
 - February 10, 2020: Registration deadline and proposal acceptance date finalized 
