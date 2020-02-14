@@ -18,12 +18,12 @@ We encourage projects that:
 
 ## Call For Hacks
 
-- Proposals should be submitted via web form: https://forms.gle/2unDD5C5zVDUeFVq5
+- Proposals should be submitted via [web form](https://forms.gle/2unDD5C5zVDUeFVq5).
 - Click [here](http://10th-ndn-hackathon.named-data.net/cfh.html) for more details.
 
 ## News
 
-- February 10, 2020: Registration deadline and proposal acceptance date finalized 
+- February 10, 2020: Registration deadline and proposal acceptance date finalized
 - February 9, 2020: Participant registration is open
 - January 31, 2020: Hackathon website is up
 
