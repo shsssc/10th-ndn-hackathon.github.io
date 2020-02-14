@@ -27,7 +27,7 @@ We will create a slack channel for communication.
 
 ## Submission instructions
 
-Proposals should be submitted via web form: https://forms.gle/2unDD5C5zVDUeFVq5
+Proposals should be submitted via [web form](https://forms.gle/2unDD5C5zVDUeFVq5).
 
 The submissions should include:
 
