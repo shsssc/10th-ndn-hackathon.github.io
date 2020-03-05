@@ -15,9 +15,9 @@ plugins:
 
 deadlines:
         - name: Submission deadline
-          date: Sunday, March 8th, 2020 
+          date: Sunday, May 10th, 2020 
         - name: Acceptance notification
-          date: Tuesday, March 10th, 2020
+          date: Tuesday, May 13th, 2020
 
 # Configuration for permalink
 permalink: /:page.html
@@ -25,7 +25,7 @@ permalink: /:page.html
 # Configuration for site
 title: 10th Named Data Networking (NDN) Hackathon
 short_title: 10th NDN Hackathon
-description: March 13-15, 2020 in Tucson, AZ
+description: May 15-17 (tentative), 2020 in Tucson, AZ
 author: 10th NDN Hackathon Organizing Committee
 email: 10th-ndn-hackathon@named-data.net
 
