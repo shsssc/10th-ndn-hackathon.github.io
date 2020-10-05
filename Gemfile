@@ -11,7 +11,7 @@ gem "kramdown-parser-gfm", "= 1.1.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-assets', '~> 3.0', '>= 3.0.12'
-  gem "autoprefixer-rails", "~> 10.0"
+  gem 'autoprefixer-rails', '~> 9.4', '>= 9.4.7'
   gem 'mini_magick', '~> 4.9', '>= 4.9.2'
   gem 'yui-compressor', '~> 0.12.0'
   gem 'uglifier', '~> 4.1', '>= 4.1.20'
