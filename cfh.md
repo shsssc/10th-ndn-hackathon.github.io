@@ -12,11 +12,11 @@ We encourage projects that:
  - create new NDN tools or modify existing tools,
  - create or improve documentation and how-to guides.
 
-#### **Remote participation is welcome!**
+#### **Remote participation!**
 
 If you have a project in mind, please follow the submission instructions below.
 
-We will send out a video conference link before the hackathon. With that, the remote participants may:
+We will send out a video conference link before the hackathon. With that, the remote participants will:
 
  - watch the project pitches,
  - pitch projects,
