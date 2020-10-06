@@ -3,6 +3,8 @@ layout: page
 title: Welcome to 10th NDN Hackathon
 ---
 
+We are hosting a two-day Virtual NDN Hackathon from October 17 - October 18, 2020. The event is open and FREE to participate and the winners will get exciting FREE prizes!. The event targets all levels of participants and especially for beginners, it will be a good learning opportunity and get started with NDN.
+
 #### **Please register for the 10th NDN Hackathon through the following link:**
 
 <https://www.eventbrite.com/e/10th-ndn-hackathon-registration-93396496435>
@@ -21,6 +23,7 @@ We encourage projects that:
 
 ## News
 - October 5, 2020: Hackathon website is up
+- Sept 18, Hackathon Date Confirmed
 
 ## Sponsors
 
