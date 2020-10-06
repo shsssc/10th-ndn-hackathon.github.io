@@ -3,8 +3,6 @@ layout: page
 title: Welcome to 10th NDN Hackathon
 ---
 
-#### **Remote participation welcome!**
-
 #### **Please register for the 10th NDN Hackathon through the following link:**
 
 <https://www.eventbrite.com/e/10th-ndn-hackathon-registration-93396496435>
