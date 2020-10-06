@@ -9,7 +9,7 @@ title: Committees
 - [ Saurab Dulal ](mailto:sdulal@memphis.edu ) (University of Memphis)
 - [ Sichen Song ](mailto:songsichen123@gmail.com) (University of California, Los Angeles)
 - [ Chavoosh Ghasemi ](mailto:chghasemi@email.arizona.edu )(The University of Arizona)
-- and The NDN Team
+- [ The NDN Team ](mailto:ndn@lists.cs.ucla.edu)
 <!--
 ## Hacking Committee
 
