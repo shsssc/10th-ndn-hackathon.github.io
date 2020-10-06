@@ -5,11 +5,11 @@ title: Committees
 
 ## Organizing Committee
 
-- [ Eric Newberry ](mailto:enewberry@cs.ucla.edu) (University of California, Los Angeles)
 - [ Proyash Podder ](mailto:ppodd002@fiu.edu) (Florida International University)
 - [ Saurab Dulal ](mailto:sdulal@memphis.edu ) (University of Memphis)
-- [ Md Ashiqur Rahman ](mailto:marahman@email.arizona.edu )(The University of Arizona)
-
+- [ Sichen Song ](mailto:songsichen123@gmail.com) (University of California, Los Angeles)
+- [ Chavoosh Ghasemi ](mailto:chghasemi@email.arizona.edu )(The University of Arizona)
+- and The NDN Team
 <!--
 ## Hacking Committee
 
