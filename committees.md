@@ -10,15 +10,14 @@ title: Committees
 - [ Sichen Song ](mailto:songsichen123@gmail.com) (University of California, Los Angeles)
 - [ Chavoosh Ghasemi ](mailto:chghasemi@email.arizona.edu )(The University of Arizona)
 - [ The NDN Team ](mailto:ndn@lists.cs.ucla.edu)
+
 <!--
 ## Hacking Committee
-
 TODO
 -->
 
 <!--
 ## Judging Committee
-
 - Lixia Zhang (UCLA)
 - Alex Afanasyev (Florida International University)
 - Davide Pesavento (NIST)
