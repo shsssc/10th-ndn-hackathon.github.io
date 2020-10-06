@@ -7,7 +7,7 @@ We are hosting a two-day Virtual NDN Hackathon from October 17 - October 18, 202
 
 #### **Please register for the 10th NDN Hackathon through the following link:**
 
-<https://www.eventbrite.com/e/10th-ndn-hackathon-registration-93396496435>
+<https://www.eventbrite.com/e/10th-ndn-hackathon-registration-124211811873>
 
 We encourage projects that:
 
