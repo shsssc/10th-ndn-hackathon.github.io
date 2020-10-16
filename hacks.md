@@ -10,7 +10,7 @@ title: Hacks Proposals
 
 ## 1. Sync Protocol Specs
 
-### **[Pitch Slides]({% _asset/files NDNCERT_deployment_proposal.pdf @path %})**
+### **[Pitch Slides]({% asset NDNCERT_deployment_proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
