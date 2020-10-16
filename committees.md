@@ -11,21 +11,20 @@ title: Committees
 - [ Chavoosh Ghasemi ](mailto:chghasemi@email.arizona.edu )(The University of Arizona)
 - [ The NDN Team ](mailto:ndn@lists.cs.ucla.edu)
 
+## Judging Committee
+- Alex Afanasyev (Florida International University)
+- Lan Wang (University of Memphis)
+- Lixia Zhang (UCLA)
+- Beichuan Zhang (University of Arizona) 
+
 <!--
 ## Hacking Committee
 TODO
 -->
 
 <!--
-## Judging Committee
-- Lixia Zhang (UCLA)
-- Alex Afanasyev (Florida International University)
-- Davide Pesavento (NIST)
--->
-
-<!--
+- Lixia Zhang (University of California, Los Angeles)
 - Alex Afanasyev (Florida International University)
 - Jeff Burke (UCLA REMAP)
-- Lan Wang (University of Memphis)
-- Lixia Zhang (University of California, Los Angeles)
+- Davide Pesavento (NIST)
 -->
