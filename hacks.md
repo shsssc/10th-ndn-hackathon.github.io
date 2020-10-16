@@ -10,7 +10,7 @@ title: Hacks Proposals
 
 ## 1. Sync Protocol Specs
 
-### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -39,7 +39,7 @@ Write protocol specifications of three sync protocols:
 
 ## 2. RTCDataChannel Transport for Browsers
 
-### **[Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
+### **[Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -65,7 +65,7 @@ Write protocol specifications of three sync protocols:
 
 ## 3. NDN Video using NDNts
 
-### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -92,7 +92,7 @@ Write protocol specifications of three sync protocols:
 
 ## 4. Passive Name Visualizer
 
-### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -119,7 +119,7 @@ Write protocol specifications of three sync protocols:
 
 ## 5.  NDNph – NDN-Lite Bridge
 
-### **[Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
+### **[Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -172,7 +172,7 @@ Write protocol specifications of three sync protocols:
 
 ## 7. YaNFD: Yet Another NDN Forwarder
 
-### **[Slides]({% asset YaNFD_Yet Another NDN Forwarder - Eric Newberry_proposal.pdf @path %})**
+### **[Slides]({% asset YaNFD_Yet_Another_NDN_Forwarder_Eric_Newberry_proposal.pdf @path %})**
 
 **Project Lead:**
 - Eric Newberry
@@ -198,7 +198,7 @@ Write protocol specifications of three sync protocols:
 
 ## 8. Combat Fake News with screenshot verification
 
-### **[Slides]({% asset ndn slapper_proposal.pdf @path %})**
+### **[Slides]({% asset ndn_slapper_proposal.pdf @path %})**
 
 **Project Lead:**
 - Aditya Advani
