@@ -10,7 +10,7 @@ title: Hacks Proposals
 
 ## 1. Sync Protocol Specs
 
-### **[Pitch Slides]({% asset NDNCERT_deployment_proposal.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -39,7 +39,7 @@ Write protocol specifications of three sync protocols:
 
 ## 2. RTCDataChannel Transport for Browsers
 
-### **[Slides]({% asset 2-openwrt-junxiao.pdf @path %})**
+### **[Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -65,7 +65,7 @@ Write protocol specifications of three sync protocols:
 
 ## 3. NDN Video using NDNts
 
-### **[Pitch Slides]({% asset 3-testbed-junxiao.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -92,7 +92,7 @@ Write protocol specifications of three sync protocols:
 
 ## 4. Passive Name Visualizer
 
-### **[Pitch Slides]({% asset 4-esp8266ndn-junxiao.pdf @path %})**
+### **[Pitch Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -119,7 +119,7 @@ Write protocol specifications of three sync protocols:
 
 ## 5.  NDNph – NDN-Lite Bridge
 
-### **[Slides]({% asset 5-multicast-ernest.pdf @path %})**
+### **[Slides]({% asset ndnhack10_20201013 - Proposal.pdf @path %})**
 
 **Project Lead:**
 - Junxiao Shi
@@ -146,7 +146,7 @@ Write protocol specifications of three sync protocols:
 
 ## 6. Deploy NDNCERT v0.3 on Testbed
 
-### **[Pitch Slides]({% asset 6-email-ritik.pdf @path %})**
+### **[Pitch Slides]({% asset NDNCERT_deployment_proposal.pdf @path %})**
 
 **Project Lead:**
 - Zhiyi Zhang
@@ -172,7 +172,7 @@ Write protocol specifications of three sync protocols:
 
 ## 7. YaNFD: Yet Another NDN Forwarder
 
-### **[Slides]({% asset 7-full-saurab.pdf @path %})**
+### **[Slides]({% asset YaNFD_Yet Another NDN Forwarder - Eric Newberry_proposal.pdf @path %})**
 
 **Project Lead:**
 - Eric Newberry
@@ -198,7 +198,7 @@ Write protocol specifications of three sync protocols:
 
 ## 8. Combat Fake News with screenshot verification
 
-### **[Slides]({% asset 8-mailinglist-atif.pdf @path %})**
+### **[Slides]({% asset ndn slapper_proposal.pdf @path %})**
 
 **Project Lead:**
 - Aditya Advani
@@ -228,7 +228,7 @@ https://medium.com/@aditya_advani/how-to-defeat-fake-news-with-a-screenshot-veri
 
 ## 9. NFD Strategy Plugin System
 
-### **[Slides]({% asset 9-android-davide.pdf @path %})**
+### **[Slides]({% asset NFD_strategy_Plugin_proposal.pdf @path %})**
 
 **Project Lead:**
 - Ashlesh Gawande, Saurab Dulal
