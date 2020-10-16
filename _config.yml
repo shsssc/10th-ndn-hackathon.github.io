@@ -43,8 +43,8 @@ navbar_list:
     link: /committees.html
 #  - name: Terms
 #    link: /terms.html
-#  - name: <b>HACKS</b>
-#    link: /hacks.html
+  - name: <b>HACKS</b>
+    link: /hacks.html
   - name: Call for Hacks
     link: /cfh.html
 #  - name: Program
