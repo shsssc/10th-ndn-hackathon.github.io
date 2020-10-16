@@ -253,4 +253,4 @@ from them
 - C, C++14, NFD
 
 **Expected outcomes**
-- C, C++14, NFD, waf build system
+- Load a new strategy in NFD at run time.
