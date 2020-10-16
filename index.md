@@ -22,6 +22,7 @@ We encourage projects that:
 - Click [here](http://10th-ndn-hackathon.named-data.net/cfh.html) for more details.
 
 ## News
+- October 16, Hackathon project proposals updated 
 - October 5, 2020: Hackathon website is up
 - Sept 18, Hackathon Date Confirmed
 
