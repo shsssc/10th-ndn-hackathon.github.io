@@ -41,25 +41,14 @@ navbar_list:
     link: /
   - name: Committees
     link: /committees.html
-#  - name: Terms
-#    link: /terms.html
+  - name: Terms
+    link: /terms.html
   - name: <b>HACKS</b>
     link: /hacks.html
-  - name: Call for Hacks
-    link: /cfh.html
   - name: Program
-   link: /program.html
+    link: /program.html
   - name: Judging
-   link: /judging.html
-
-# - name: Call for Hack Proposals
-#   link: /cfh.html
-#- name: <b>REGISTER NOW</b>
-#  link: https://www.eventbrite.com/e/8th-ndn-hackathon-tickets-51133541800
-# - name: <b>HACKS</b>
-#   link: /hacks.html
-#  - name: <b>PHOTOS</b>
-#    link: /photos.html
+    link: /judging.html
 
 asides:
     github: true
