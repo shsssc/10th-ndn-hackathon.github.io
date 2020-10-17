@@ -47,9 +47,9 @@ navbar_list:
     link: /hacks.html
   - name: Call for Hacks
     link: /cfh.html
- - name: Program
+  - name: Program
    link: /program.html
- - name: Judging
+  - name: Judging
    link: /judging.html
 
 # - name: Call for Hack Proposals
