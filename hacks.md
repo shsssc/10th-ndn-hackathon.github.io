@@ -8,7 +8,7 @@ title: Hacks Proposals
 * TOC
 {:toc}
 
-## 1. Sync Protocol Specs
+## 1. <del>Sync Protocol Specs</del>
 
 ### **[Pitch Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
@@ -37,7 +37,7 @@ Write protocol specifications of three sync protocols:
 **Expected outcomes**
 - Precise and unambiguous specs that match reference implementations.
 
-## 2. RTCDataChannel Transport for Browsers
+## 2. <del>RTCDataChannel Transport for Browsers</del>
 
 ### **[Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
@@ -63,7 +63,7 @@ Write protocol specifications of three sync protocols:
 **Expected outcomes**
 - No more TCP-over-TCP in web applications
 
-## 3. NDN Video using NDNts
+## 3. <del>NDN Video using NDNts</del>
 
 ### **[Pitch Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
@@ -117,7 +117,7 @@ Write protocol specifications of three sync protocols:
 **Expected outcomes**
 - Visualization application
 
-## 5.  NDNph – NDN-Lite Bridge
+## 5.  <del>NDNph – NDN-Lite Bridge</del>
 
 ### **[Slides]({% asset ndnhack10_20201013_Proposal.pdf @path %})**
 
