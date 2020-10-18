@@ -16,6 +16,7 @@ title: Committees
 - Lan Wang (University of Memphis)
 - Lixia Zhang (UCLA)
 - Beichuan Zhang (University of Arizona) 
+- Davide Pesavento (NIST)
 
 <!--
 ## Hacking Committee
