@@ -97,6 +97,9 @@ Write protocol specifications of three sync protocols:
 **Project Lead:**
 - Junxiao Shi
 
+**Project Members** 
+- Sanjeev (FIU), Proyash (FIU)
+
 **Prefered Team Size:**
 - 3
 
@@ -150,6 +153,8 @@ Write protocol specifications of three sync protocols:
 
 **Project Lead:**
 - Zhiyi Zhang
+**Project Members** 
+- Siqi Liu, Tianyuan Yu, Muhammad Nuzaihan
 
 **Prefered Team Size:**
 - 3
@@ -175,7 +180,7 @@ Write protocol specifications of three sync protocols:
 ### **[Slides]({% asset YaNFD_Yet_Another_NDN_Forwarder_Eric_Newberry_proposal.pdf @path %})**
 
 **Project Lead:**
-- Eric Newberry
+- Eric Newberry, Xinyu Ma
 
 **Prefered Team Size:**
 - 3
@@ -231,7 +236,11 @@ https://medium.com/@aditya_advani/how-to-defeat-fake-news-with-a-screenshot-veri
 ### **[Slides]({% asset NFD_strategy_Plugin_proposal.pdf @path %})**
 
 **Project Lead:**
-- Ashlesh Gawande, Saurab Dulal
+- Ashlesh Gawande
+
+**Project Members**
+- Saurab Dulal
+- Muktadir Chowdhury 
 
 **Prefered Team Size:**
 - 2
