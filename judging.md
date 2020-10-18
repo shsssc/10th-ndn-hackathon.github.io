@@ -5,7 +5,7 @@ title: Judging
 
 The concluding hack slides will be made available to judges before the final presentation starts.
 
-The final presentations are TBD minutes (hard limit).
+The final presentations are 10 minutes (hard limit) including demo and/or screenshot. Also, aditional few minutes will be provided for Q&A. 
 
 The slides should cover the following aspects: (Judging criterial)
 
